@@ -1,0 +1,20 @@
+{
+    "colleges":[
+        {
+            "id":21,
+            "logo":"sv.png",
+            "name": "sv",
+            "code": "2c",
+            "address": "TPT",
+            "university":"JNTU"
+        },
+        {
+            "id":22,
+            "logo":"sr.png",
+            "name": "sr",
+            "code": "4c",
+            "address": "TPT",
+            "university":"JNTU"
+        }
+    ]
+}

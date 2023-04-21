@@ -1,0 +1,18 @@
+
+Get : http://localhost:3000/colleges  - all coleege
+get : http://localhost:3000/colleges/21 - one college
+post: http://localhost:3000/colleges &  {
+            "logo":"sv1.png",
+            "name": "sv1",
+            "code": "3c",
+            "address": "TPT1",
+            "university":"JNTU1"
+        }
+put: http://localhost:3000/colleges/21 &  {
+            "logo":"sv1.png",
+            "name": "sv1",
+            "code": "3c",
+            "address": "TPT1",
+            "university":"JNTU1"
+        }
+delete: : http://localhost:3000/colleges/22
